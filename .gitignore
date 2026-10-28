@@ -1,0 +1,10 @@
+*.hex
+*.elf
+*.bin
+build/
+.cache/
+.vscode/
+*.apk
+*.aab
+*.aia
+.env
